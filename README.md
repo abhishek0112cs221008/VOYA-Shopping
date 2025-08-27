@@ -25,6 +25,13 @@ VOYA is a complete, database-driven e-commerce website built from the ground up 
 * **Product Management (CRUD):** Full capabilities to Create, Read, Update, and Delete products in the catalog.
 * **Order Management:** View all customer orders and update their status (e.g., Pending, Shipped, Delivered).
 * **Customer Management:** View a list of all registered customers.
+---
+
+
+
+https://github.com/user-attachments/assets/e6f148be-d06a-47d7-a81d-a92a8b4bdfbd
+
+
 
 ---
 ## Built With
