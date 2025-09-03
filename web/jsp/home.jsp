@@ -41,7 +41,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <!-- This is the line that adds your logo to the browser tab -->
      <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='15' fill='#000000' /><text x='50' y='65' font-family='Inter, sans-serif' font-size='40' font-weight='bold' fill='#FFFFFF' text-anchor='middle'>VOYA</text></svg>">
-    
+    <link rel="stylesheet" href="css/logo.css">
     <link rel="icon" href="assets/logo2.png">
     
     <style>
@@ -810,9 +810,9 @@
 <!-- Header Navigation -->
 <header class="main-header">
     <div class="header-container">
-        <div class="logo-section">
-            <a href="#" class="logo-text">VOYA</a>
-        </div>
+        <a href="#" class="voya-logo text-decoration-none">
+                    <span class="letter letter-v">V</span><span class="letter letter-o">O</span><span class="letter letter-y">Y</span><span class="letter letter-a">A</span>
+                </a>
         
         <!--nav bar------------->
         <nav class="main-nav">
@@ -1006,6 +1006,9 @@
 
 <!-- Footer -->
 <footer class="site-footer">
+		<a href="#" class="voya-logo text-decoration-none">
+                    <span class="letter letter-v">V</span><span class="letter letter-o">O</span><span class="letter letter-y">Y</span><span class="letter letter-a">A</span>
+                </a>
     <p class="footer-text">© 2025 Voya. All Rights Reserved.</p>
 </footer>
 <script>
@@ -1697,6 +1700,7 @@ function updateActiveCategory() {
 document.addEventListener('DOMContentLoaded', function() {
     updateActiveCategory();
 });
+
 
 
 </script>
